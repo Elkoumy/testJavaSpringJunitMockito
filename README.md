@@ -1,5 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/CeDWbLViLTLEwz2tt6rUoj/FgJChsq8oVvE9NgryvRcQy/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/CeDWbLViLTLEwz2tt6rUoj/FgJChsq8oVvE9NgryvRcQy/tree/master)
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/CeDWbLViLTLEwz2tt6rUoj/FgJChsq8oVvE9NgryvRcQy/tree/master.svg?style=svg&circle-token=d0dd2d34cdea86b78597f9b60d623cb462931727)](https://dl.circleci.com/status-badge/redirect/circleci/CeDWbLViLTLEwz2tt6rUoj/FgJChsq8oVvE9NgryvRcQy/tree/master)
 # Introduction to JUnit 5 with Mockito
 
 All source code examples in the repository are for my [Online Course - Testing Spring Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO)
