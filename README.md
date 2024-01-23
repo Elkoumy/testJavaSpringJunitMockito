@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/CeDWbLViLTLEwz2tt6rUoj/FgJChsq8oVvE9NgryvRcQy/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/CeDWbLViLTLEwz2tt6rUoj/FgJChsq8oVvE9NgryvRcQy/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/CeDWbLViLTLEwz2tt6rUoj/FgJChsq8oVvE9NgryvRcQy/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/CeDWbLViLTLEwz2tt6rUoj/FgJChsq8oVvE9NgryvRcQy/tree/master)
 
 # Introduction to JUnit 5 with Mockito
 
